@@ -6,4 +6,4 @@ Google Colab üzerinde DCGAN (Deep Convolutional Generative Adversarial Network)
 
 # [Proje Dosyası](https://github.com/MustfaOzcan/DCGAN_YapayZeka/blob/main/DCGAN_2A_Grup10_FINAL.ipynb)
 
-
+Ödev Notu : 100
